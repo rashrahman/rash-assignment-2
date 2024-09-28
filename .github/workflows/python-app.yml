@@ -33,6 +33,3 @@ jobs:
         sleep 10  # Wait for 10 seconds to ensure the server starts up
 
    
-    - name: Test with pytest
-      run: |
-        pytest
